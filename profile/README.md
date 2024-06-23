@@ -12,7 +12,6 @@
 
 
 
-![U-S-M](https://wonderbible.world/Social%20Media.webp)
 
 ****WonderBIble Social Media****
 
@@ -21,7 +20,6 @@
 * <a href="https://github.com/WonderBible">***WonderBible GitHub***</a>
 * <a href="https://discord.gg/8C4h8aFPt3">***WonderBible Discord***</a>
 * <a href="https://t.me/WonderBible">***WonderBible Telegram***</a>
-* <a href="https://instagram.com/valt_wel">***WonderBible Instagram***</a>
 
 Contact & Discussion
 * <a href="https://wonderbible.world/contact.html">***WonderBible Contact Page***</a> / <a href="https://github.com/WonderBible/WonderBible.GitHub.Io/discussions">***GitHub Repository Discussion***<a>
